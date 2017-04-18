@@ -1,0 +1,7 @@
+.sencha
+build
+ext
+bootstrap.*
+classic.*
+modern.*
+sass/examples/**/*
